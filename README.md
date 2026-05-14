@@ -8,11 +8,11 @@ This project was my first frontend project created while learning the fundamenta
 ## 🚀 Live Demo
 
 🔗 **Live Website:**  
-![Live Demo]()
+![Live Demo](# https://mansityagi548.github.io/nutrition-summary-card/)
 
 ## 📸 Preview
 
-![Project Preview]()
+![Project Preview](./preview/nutrition-summary.png)
 
 
 
